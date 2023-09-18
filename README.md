@@ -51,6 +51,6 @@ sh run_model_sct.sh
 ```
 
 
-## Acknoledgments
+## Acknowledgement
 Part of the code is borrowed from [timm](https://github.com/rwightman/pytorch-image-models).
 
