@@ -50,6 +50,19 @@ wget https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_ba
 sh run_model_sct.sh
 ```
 
+### Cite
+
+```
+@article{zhao2023sct,
+  title={SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels},
+  author={Zhao, Henry Hengyuan and Wang, Pichao and Zhao, Yuyang and Luo, Hao and Wang, Fan and Shou, Mike Zheng},
+  journal={International Journal of Computer Vision},
+  pages={1--19},
+  year={2023},
+  publisher={Springer}
+}
+```
+
 
 ## Acknowledgement
 Part of the code is borrowed from [timm](https://github.com/rwightman/pytorch-image-models).
