@@ -21,11 +21,11 @@ pip install -r requirements.txt
 
 - Train/Val/Test splits
 
-    Please refer to files under `data/XXX/XXX/annotations` for the detail information.
+    Please refer to the files under `data/XXX/XXX/annotations` for the detail information.
 
 
 ## Quick Start For SCT
-We use the VTAB experiments as examples.
+We use the VTAB experiments as an example.
 
 ### 1. Downloading the Pre-trained Model
 | Model | Link |
